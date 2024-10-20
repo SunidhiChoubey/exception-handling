@@ -46,7 +46,7 @@ int main()
 }
 ~~~
 ## Output-
-![](
+![](https://github.com/SunidhiChoubey/exception-handling/blob/main/Screenshot%202024-10-21%20020234.png)
 ## Conclusion-
 We learnt about exception handling in C++ and We learnt the flow of exception handling in C++.
 
